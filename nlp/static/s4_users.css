@@ -1,0 +1,15 @@
+* {
+  font-family: arial, sans-serif;
+  box-sizing: border-box;
+}
+
+#demo { margin-top: 10px; }
+table#demo {
+  border-collapse: collapse;
+}
+table#demo tr td {
+  padding: 10px;
+}
+table#demo tr:nth-child(odd) {
+  background: #f2f2f2;
+}
