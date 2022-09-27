@@ -4,7 +4,7 @@ NLP project - Search Engine for Data Science jobs using SBERT model.
 A prototype implementation for a web based job search engine.
 
 This code finds the most relevant parts of each job description
-and lets you search for the most relevent job for you!
+and lets you search for the most relevant job for you!
 
 ### Web search UI:
 
