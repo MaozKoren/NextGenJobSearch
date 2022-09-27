@@ -16,11 +16,11 @@ and the jobs that best fit your query will appear at the top of the list!
 Each job description is preprocessed to keep only the text that describes the job specifications.
 A dadabase of vector represantations is created, and the user query is compared to jobs in the database using Cosine Similarity. 
 
+The sample data is taken from [https://www.kaggle.com/code/ranand60/analysis-of-job-posting-data-scientist-in-us/data](https://www.kaggle.com/code/ranand60/analysis-of-job-posting-data-scientist-in-us/data).
+
 ### Basic Software Architecture
 
 ![](Architecture.JPG)
-
-The sample data is taken from [https://www.kaggle.com/code/ranand60/analysis-of-job-posting-data-scientist-in-us/data](https://www.kaggle.com/code/ranand60/analysis-of-job-posting-data-scientist-in-us/data).
 
 ### Install requirements 
 ```
