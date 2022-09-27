@@ -1,7 +1,7 @@
 # Next Generation Job Search
 NLP project - Search Engine for Data Science jobs using SBERT model.
 
-A prototype implementation for a web based job search engine.
+A prototype implementation for a fee text job search engine.
 
 This code finds the most relevant parts of each job description
 This code uses an advanced NLP model and creative preprocessing techniques to find the most relevant job for you!
