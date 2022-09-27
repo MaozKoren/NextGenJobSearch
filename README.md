@@ -4,7 +4,7 @@ NLP project - Search Engine for Data Science jobs using SBERT model.
 A prototype implementation for a web based job search engine.
 
 ### Web search UI:
-![](UI.gif)
+![](UI.JPG)
 
 The sample data is taken from [https://www.kaggle.com/code/ranand60/analysis-of-job-posting-data-scientist-in-us/data](https://www.kaggle.com/code/ranand60/analysis-of-job-posting-data-scientist-in-us/data).
 
